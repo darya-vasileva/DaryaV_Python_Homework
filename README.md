@@ -14,9 +14,6 @@
 
 ## Папка lesson_02:
 Папка homeWork: домашнее задание по второму уроку Python
-
-## Папка lesson_02:
-Папка homeWork: домашнее задание по второму уроку Python
 * lesson_2_task_1.py
 * lesson_2_task_2.py
 * lesson_2_task_3.py
@@ -47,8 +44,14 @@
 * product.py
 * student.py
 
-## Папка training:
-Выполнение тренировочных заданий в рамках подготовки к домашней работе
+## Папка lesson_04:
+Папка homeWork: домашнее задание по третьему уроку Python
+* pytest.ini
+* string_utils.py
+* test_string_utils.py
 
-* lesson_01_training.py
-* lesson_02_training.py
+Папка training: выполнение тренировочных заданий в рамках подготовки к домашней работе
+* string_processor.py
+* string_processor_test.py
+
+* файл test_example.py - для проверки работы pytest
