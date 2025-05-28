@@ -67,3 +67,13 @@
 * ex1.py
 * ex2.py
 * ex3.py
+
+## Папка lesson_06:
+Папка homeWork: домашнее задание по шестому уроку Python
+* lesson_6_task_1.py
+* lesson_6_task_2.py
+* lesson_6_task_3.py
+
+Папка training: выполнение тренировочных заданий в рамках подготовки к домашней работе
+* ex1.py
+* ex2.py
